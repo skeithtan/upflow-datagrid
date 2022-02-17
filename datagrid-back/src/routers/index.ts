@@ -1,0 +1,1 @@
+export { peopleRouter } from "./people";
