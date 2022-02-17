@@ -1,6 +1,6 @@
 ## Overview
 
-This project aims to address the following:
+This project addresses the following:
 
 * Handling a dataset of 100,000+ rows
 * Creation of an API that abstracts away the underlying implementation.
